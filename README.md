@@ -13,3 +13,7 @@ In this work we attempt to discover relations between the size of cancerous cell
 In order to visualize this dataset you must first download the dataset and all source code file(s) at https://github.com/adhroso/Tablesofnumbers.git. In addition, you must place these files in the web directory of your web server.
 
 To visualize this dataset we employed parallel coordinates. One of the advantages of using Parallel coordinates is the ability to visualize large dimension datasets all at once. Thus, it allows us to uncover unknown correlations.
+
+
+After a careful analysis of different attributes, we found that there are no clear correlations between the size of cell between cancerous and non cancerous patients. This includes other attributes as well.
+ 
