@@ -7,6 +7,7 @@ or
 git clone git@github.com:adhroso/Tablesofnumbers.git
 
 Data is visualized at: http://users.wpi.edu/~adhroso/table_analysis.html
+Analysis results can also be downloaded from: http://users.wpi.edu/~adhroso/cell_benign_relation.png and http://users.wpi.edu/~adhroso/cell_malignant_relation.png
 
 Data analytics is the process that examines raw data to uncover relations, novel patterns and information to help experts better interpret the results. With the technology advancements we are now generating more data than ever before, thus it is important to develop new visual aids to help the process of analytics.
 
