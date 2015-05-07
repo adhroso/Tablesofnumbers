@@ -18,5 +18,5 @@ In order to visualize this dataset you must first download the dataset and all s
 To visualize this dataset we employed parallel coordinates. One of the advantages of using Parallel coordinates is the ability to visualize large dimension datasets all at once. Thus, it allows us to uncover unknown correlations.
 
 
-After a careful analysis of different attributes, we found that there are no clear correlations between the size of cell between cancerous and non cancerous patients. This includes other attributes as well.
+After a careful analysis of different attributes, we found that there are no clear correlations between the size of cell between cancerous and non cancerous patients. This includes other attributes as well. It is easy to see from cell_malignant_relation.png and cell_benign_relation.png (see links above), cancerous and non cancerous patients have significant overlap with respect to cell size.
  
